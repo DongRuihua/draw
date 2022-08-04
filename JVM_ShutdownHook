@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T09:11:30.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tGKKp7j0thvdysi_4_Pf" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T09:13:53.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JNdSmmNz3KOPcpbY2BS7" version="15.5.2" type="github">
   <diagram id="IZCBxa9tVxht_V4V6Yfa" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="EXU5Lgry7c9nR6wADDrw-5" value="&lt;div&gt;&lt;span&gt;进入 Terminator.setup() 方法，调用了 Signal.handle(signal， handler)方法，方法参数分别是信号和信号处理函数。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;该方法关注 INT 和 TERM 信号，都绑定了 Shutdown.exist()&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EXU5Lgry7c9nR6wADDrw-6" value="&lt;div&gt;&lt;span&gt;进入 Shutdown.exist() 方法，里面都是调用内部私有方法，调用顺序：exist() -&amp;gt; sequence() -&amp;gt; runHooks()&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
