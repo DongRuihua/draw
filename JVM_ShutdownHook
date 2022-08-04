@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T09:37:26.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xnBeO9HHEvnhYluPgW57" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T09:37:40.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="k6X8KVikah9N5cHR7Yys" version="15.5.2" type="github">
   <diagram id="IZCBxa9tVxht_V4V6Yfa" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="983.1599999999996" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXU5Lgry7c9nR6wADDrw-23" value="进入 ApplicationShutdownHooks.runHooks() 方法，获取到 Map hooks 的 key集合，遍历调用每个线程的 start() 方法" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=left;" vertex="1" parent="1">
+        <mxCell id="EXU5Lgry7c9nR6wADDrw-23" value="进入 &lt;b&gt;&lt;font color=&quot;#ff9933&quot;&gt;ApplicationShutdownHooks.runHooks()&lt;/font&gt;&lt;/b&gt; 方法，获取到 Map hooks 的 key集合，遍历调用每个线程的 start() 方法" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=left;" vertex="1" parent="1">
           <mxGeometry x="1220" y="400" width="313" height="100" as="geometry" />
         </mxCell>
       </root>
