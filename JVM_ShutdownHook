@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T09:34:35.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PHnU9hFjOj0q83OBqzy5" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T09:35:37.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PCajpN1I_59kjUMzMHkV" version="15.5.2" type="github">
   <diagram id="IZCBxa9tVxht_V4V6Yfa" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
             <mxPoint x="983.1599999999999" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EXU5Lgry7c9nR6wADDrw-17" value="进入 &lt;b&gt;&lt;font color=&quot;#ff9933&quot;&gt;ApplicationShutdownHooks.add()&lt;/font&gt;&lt;/b&gt;，逻辑很简单，把线程对象添加私有变量&lt;br&gt;&amp;nbsp;IdentityHashMap&amp;lt;Thread, Thread&amp;gt; hooks" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=center;" vertex="1" parent="1">
+        <mxCell id="EXU5Lgry7c9nR6wADDrw-17" value="进入 &lt;b&gt;&lt;font color=&quot;#ff9933&quot;&gt;ApplicationShutdownHooks.add()&lt;/font&gt;&lt;/b&gt;，逻辑很简单，把线程对象添加到 Map 中，key和value都是任务本身&lt;br&gt;&amp;nbsp;IdentityHashMap&amp;lt;Thread, Thread&amp;gt; hooks" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=center;" vertex="1" parent="1">
           <mxGeometry x="827" y="210" width="313" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EXU5Lgry7c9nR6wADDrw-18" value="&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-weight: bold&quot;&gt;ApplicationShutdownHooks&amp;nbsp;&lt;/font&gt;有个静态代码块，调用 Shutdown.add(slotIdx, Runnable) 方法。&lt;span&gt;slotIdx 是1，&lt;/span&gt;Runnable 是在 run 方法调用 自己的 runHooks()&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=left;" vertex="1" parent="1">
