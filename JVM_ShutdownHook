@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T09:38:48.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qmdBDNVZAn2ktjudGRdo" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T09:39:35.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EnkygTUi0VgdTaiWsWq3" version="15.5.2" type="github">
   <diagram id="IZCBxa9tVxht_V4V6Yfa" name="Page-1">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,13 +64,16 @@
             <mxPoint x="983.1599999999996" y="669.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EXU5Lgry7c9nR6wADDrw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF9933;strokeWidth=7;" edge="1" parent="1" source="EXU5Lgry7c9nR6wADDrw-21" target="EXU5Lgry7c9nR6wADDrw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EXU5Lgry7c9nR6wADDrw-21" value="进入 &lt;b&gt;&lt;font color=&quot;#ff9933&quot;&gt;Shutdown.add()&lt;/font&gt;&lt;/b&gt; 方法，逻辑很简单，就是按照参数，把元素添加到私有变量 hooks 的指定下标处。&lt;br&gt;说明：Shutdown.hooks 是一个 Runnable 数组" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;gradientColor=none;gradientDirection=north;align=left;" vertex="1" parent="1">
-          <mxGeometry x="827" y="870" width="313" height="100" as="geometry" />
+          <mxGeometry x="827" y="875" width="313" height="130" as="geometry" />
         </mxCell>
         <mxCell id="EXU5Lgry7c9nR6wADDrw-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=35.23809523809524;endSize=12.333333333333334;width=17.714285714285715;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="983.1599999999996" y="789.9999999999998" as="sourcePoint" />
-            <mxPoint x="983.1599999999996" y="860" as="targetPoint" />
+            <mxPoint x="982.9099999999996" y="799.9999999999998" as="sourcePoint" />
+            <mxPoint x="982.9099999999996" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EXU5Lgry7c9nR6wADDrw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF9933;strokeWidth=5;" edge="1" parent="1" source="EXU5Lgry7c9nR6wADDrw-23" target="EXU5Lgry7c9nR6wADDrw-18">
