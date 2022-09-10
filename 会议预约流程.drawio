@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T15:20:10.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ERqPvKnWC1iHKG9Krwf6" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T15:20:45.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nV94dY_6lHgsZxo6nNXJ" version="15.5.4" type="github">
   <diagram id="gN2CgmF_Tn5y9q0DE9BQ" name="Page-1">
     <mxGraphModel dx="1341" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,11 +37,18 @@
         <mxCell id="fREWHRoIH6fhRUN0-L7m-11" value="是否审批通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="274" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fREWHRoIH6fhRUN0-L7m-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-13" target="fREWHRoIH6fhRUN0-L7m-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fREWHRoIH6fhRUN0-L7m-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-13" target="fREWHRoIH6fhRUN0-L7m-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-32" value="自动结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fREWHRoIH6fhRUN0-L7m-27">
+          <mxGeometry x="-0.2141" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fREWHRoIH6fhRUN0-L7m-13" value="会议进行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="120" height="40" as="geometry" />
@@ -61,17 +68,17 @@
         <mxCell id="fREWHRoIH6fhRUN0-L7m-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="585" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fREWHRoIH6fhRUN0-L7m-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-22" target="fREWHRoIH6fhRUN0-L7m-23">
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-30" target="fREWHRoIH6fhRUN0-L7m-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fREWHRoIH6fhRUN0-L7m-22" value="是否延长会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="120" height="80" as="geometry" />
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-30" value="可延长会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fREWHRoIH6fhRUN0-L7m-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-23" target="fREWHRoIH6fhRUN0-L7m-20">
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-31" target="fREWHRoIH6fhRUN0-L7m-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fREWHRoIH6fhRUN0-L7m-23" value="是否结束会议？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="120" height="80" as="geometry" />
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-31" value="可手动结束会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
