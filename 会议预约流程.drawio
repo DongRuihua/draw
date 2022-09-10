@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T15:13:55.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vRlUVe5C3VTv-VXDWehG" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T15:14:23.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hogdlJaJF95ZRa3wzT0d" version="15.5.4" type="github">
   <diagram id="gN2CgmF_Tn5y9q0DE9BQ" name="Page-1">
     <mxGraphModel dx="1178" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,10 @@
           <mxGeometry x="200" y="212.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="fREWHRoIH6fhRUN0-L7m-5" value="是否为&lt;br&gt;指定使用者" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="120" height="75" as="geometry" />
+          <mxGeometry x="360" y="197.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-6" value="会议室是否&lt;br&gt;需要审批" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="197.5" width="120" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
