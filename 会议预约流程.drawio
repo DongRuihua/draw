@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T15:16:31.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Aj-2OF2zzCF3hQnIKMc1" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T15:16:58.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="YLM-vu_5GPiNlyTCVL-K" version="15.5.4" type="github">
   <diagram id="gN2CgmF_Tn5y9q0DE9BQ" name="Page-1">
     <mxGraphModel dx="1341" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,11 +10,17 @@
         <mxCell id="fREWHRoIH6fhRUN0-L7m-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="130" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fREWHRoIH6fhRUN0-L7m-2" target="fREWHRoIH6fhRUN0-L7m-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fREWHRoIH6fhRUN0-L7m-2" value="提交会议室预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fREWHRoIH6fhRUN0-L7m-9" value="会议室是否&lt;br&gt;需要审批？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fREWHRoIH6fhRUN0-L7m-11" value="是否审批通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
