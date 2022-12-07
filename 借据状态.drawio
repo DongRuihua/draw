@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T06:24:10.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="GzZtQiG4HlGd4l3i9fEy" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T06:25:53.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="wID82EyZcZd3Aa5jdNGq" type="github">
   <diagram id="d1jQflfKN0uAdyGCnLyi" name="第 1 页">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,6 +40,15 @@
         <mxCell id="ZLOERHzJFg0DGiNdDyd4-8" value="等待放款处理（2001）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="255" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ZLOERHzJFg0DGiNdDyd4-10" target="ZLOERHzJFg0DGiNdDyd4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="ZLOERHzJFg0DGiNdDyd4-10" target="ZLOERHzJFg0DGiNdDyd4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="ZLOERHzJFg0DGiNdDyd4-10" target="ZLOERHzJFg0DGiNdDyd4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZLOERHzJFg0DGiNdDyd4-10" value="已放款，等待还款（2002）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="255" width="120" height="50" as="geometry" />
         </mxCell>
@@ -48,6 +57,21 @@
         </mxCell>
         <mxCell id="ZLOERHzJFg0DGiNdDyd4-13" value="等待人工放款（2004）" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="810" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ZLOERHzJFg0DGiNdDyd4-18" target="ZLOERHzJFg0DGiNdDyd4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-18" value="部分还款（3001）" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="255" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-20" value="已逾期（3002）" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-22" value="还款异常（3003）" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLOERHzJFg0DGiNdDyd4-26" value="已完成（4001）" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="255" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
