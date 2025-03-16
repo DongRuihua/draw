@@ -13,14 +13,14 @@
         <mxCell id="mj5V2CJ_K-s1p420wyzg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mj5V2CJ_K-s1p420wyzg-2" target="mj5V2CJ_K-s1p420wyzg-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="570" />
+              <mxPoint x="320" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mj5V2CJ_K-s1p420wyzg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mj5V2CJ_K-s1p420wyzg-2" target="mj5V2CJ_K-s1p420wyzg-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="570" />
+              <mxPoint x="360" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
