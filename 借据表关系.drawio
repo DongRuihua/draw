@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="nr7erEZJrMZNI2OJ4OQ-">
-    <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,14 +42,16 @@
         <mxCell id="mj5V2CJ_K-s1p420wyzg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mj5V2CJ_K-s1p420wyzg-2" target="mj5V2CJ_K-s1p420wyzg-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="315" />
+              <mxPoint x="340" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9z45Lxlu4ni9W3NQInUv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mj5V2CJ_K-s1p420wyzg-2" target="9z45Lxlu4ni9W3NQInUv-1">
+        <mxCell id="9z45Lxlu4ni9W3NQInUv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9z45Lxlu4ni9W3NQInUv-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="235.0344827586207" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="380" />
+              <mxPoint x="300" y="245" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,10 +80,10 @@
           <mxGeometry x="670" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mj5V2CJ_K-s1p420wyzg-19" value="exceptional_repay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="290" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="300" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9z45Lxlu4ni9W3NQInUv-1" value="user_loan_extend_record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="350" width="160" height="50" as="geometry" />
+          <mxGeometry x="470" y="220" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
