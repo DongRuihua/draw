@@ -46,6 +46,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9z45Lxlu4ni9W3NQInUv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mj5V2CJ_K-s1p420wyzg-2" target="9z45Lxlu4ni9W3NQInUv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mj5V2CJ_K-s1p420wyzg-2" value="user_loan_summary" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="120" height="50" as="geometry" />
         </mxCell>
@@ -72,6 +79,9 @@
         </mxCell>
         <mxCell id="mj5V2CJ_K-s1p420wyzg-19" value="exceptional_repay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9z45Lxlu4ni9W3NQInUv-1" value="user_loan_extend_record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
