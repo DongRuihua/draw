@@ -86,6 +86,9 @@
         <mxCell id="9z45Lxlu4ni9W3NQInUv-1" value="user_loan_extend_record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9z45Lxlu4ni9W3NQInUv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9z45Lxlu4ni9W3NQInUv-3" target="9z45Lxlu4ni9W3NQInUv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9z45Lxlu4ni9W3NQInUv-3" value="user_precredit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="670" width="120" height="60" as="geometry" />
         </mxCell>
