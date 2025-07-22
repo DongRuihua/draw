@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Haw_UVek22DBO7ZvoSuc-1" value="铸剑页面&lt;div&gt;（查询、新增、修改&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="160" width="130" height="50" as="geometry" />
+          <mxGeometry x="100" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-1" value="保存配置&lt;br&gt;（inform-center-manage&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
