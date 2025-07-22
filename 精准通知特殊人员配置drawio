@@ -1,14 +1,52 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="第 1 页" id="XimHeKslB1el7A26JjFL">
-    <mxGraphModel dx="899" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Haw_UVek22DBO7ZvoSuc-1" target="FjZw2Mi5Aq5CyzbdlXov-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Haw_UVek22DBO7ZvoSuc-1" value="铸剑页面&lt;div&gt;（查询、新增、修改&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="120" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-1" value="保存配置&lt;br&gt;（inform-center-manage&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="220" width="130" height="50" as="geometry" />
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjZw2Mi5Aq5CyzbdlXov-1" target="FjZw2Mi5Aq5CyzbdlXov-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-1" value="配置中心&lt;br&gt;（inform-center-manage&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-2" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FjZw2Mi5Aq5CyzbdlXov-5" target="FjZw2Mi5Aq5CyzbdlXov-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-25" y="310" />
+              <mxPoint x="110" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-5" value="获取配置&lt;br&gt;（inform-push-statistics&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="340" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FjZw2Mi5Aq5CyzbdlXov-6" target="FjZw2Mi5Aq5CyzbdlXov-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-6" value="获取配置&lt;br&gt;（inform-push-center&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-7" value="获取配置&lt;br&gt;（inform-video&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FjZw2Mi5Aq5CyzbdlXov-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.817;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FjZw2Mi5Aq5CyzbdlXov-7" target="FjZw2Mi5Aq5CyzbdlXov-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="310" />
+              <mxPoint x="219" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
