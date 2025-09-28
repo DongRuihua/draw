@@ -22,8 +22,20 @@
         <mxCell id="s7eXi6rPdIKM4w7GeZ3S-1" value="遍历通知消息，按照模板分类，分别获取最小和最大创建时间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s7eXi6rPdIKM4w7GeZ3S-3" value="&lt;span data-copy-origin=&quot;https://doc.ky-tech.com.cn&quot; data-docs-delta=&quot;[[20,&amp;quot;min_detail_creation_date&amp;quot;]]&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot; data-language=&quot;sql&quot; class=&quot;ql-code-block ql-direction-ltr ql-long-10000278545 ql-authorBlock-10000278545 ql-word-wrap-true&quot;&gt;min_detail_creation_date的最小明细创建时间为空？&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="s7eXi6rPdIKM4w7GeZ3S-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s7eXi6rPdIKM4w7GeZ3S-3" target="s7eXi6rPdIKM4w7GeZ3S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7eXi6rPdIKM4w7GeZ3S-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s7eXi6rPdIKM4w7GeZ3S-3" target="s7eXi6rPdIKM4w7GeZ3S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7eXi6rPdIKM4w7GeZ3S-3" value="&lt;span data-copy-origin=&quot;https://doc.ky-tech.com.cn&quot; data-docs-delta=&quot;[[20,&amp;quot;min_detail_creation_date&amp;quot;]]&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot; data-language=&quot;sql&quot; class=&quot;ql-code-block ql-direction-ltr ql-long-10000278545 ql-authorBlock-10000278545 ql-word-wrap-true&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模板表&lt;/span&gt;的最小明细创建时间为空？&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="414" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s7eXi6rPdIKM4w7GeZ3S-7" value="&lt;span data-copy-origin=&quot;https://doc.ky-tech.com.cn&quot; data-docs-delta=&quot;[[20,&amp;quot;min_detail_creation_date&amp;quot;]]&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot; data-language=&quot;sql&quot; class=&quot;ql-code-block ql-direction-ltr ql-long-10000278545 ql-authorBlock-10000278545 ql-word-wrap-true&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;模板表&lt;/span&gt;的最大明细创建时间为空？&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s7eXi6rPdIKM4w7GeZ3S-9" value="更新最小" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="424" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
