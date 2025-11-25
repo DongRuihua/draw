@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="第 1 页" id="1T6LxETysTN3PY3-Lz83">
-    <mxGraphModel dx="1589" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,6 +185,30 @@
             <mxPoint x="130" y="80" as="sourcePoint" />
             <mxPoint x="130" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NLnRrTh_6EvHz22wUHoQ-4" target="NLnRrTh_6EvHz22wUHoQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1140" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#0000FF;" edge="1" parent="1" source="NLnRrTh_6EvHz22wUHoQ-6" target="NLnRrTh_6EvHz22wUHoQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-6" value="开发平台" style="whiteSpace=wrap;html=1;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="1220" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-7" value="fmk-monitor" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="1390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-8" value="basic-manage" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="1390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-12" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;/api/fmk-monitor&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-14" value="&lt;font style=&quot;color: rgb(255, 153, 51);&quot;&gt;&lt;b&gt;/api/basic-manage&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1360" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
