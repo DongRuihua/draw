@@ -215,7 +215,7 @@
         <mxCell id="NLnRrTh_6EvHz22wUHoQ-14" value="&lt;font style=&quot;color: rgb(255, 153, 51);&quot;&gt;&lt;b&gt;/api/basic-manage&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="1360" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLnRrTh_6EvHz22wUHoQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.59;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#ff9933, #ededed);" edge="1" parent="1" source="NLnRrTh_6EvHz22wUHoQ-6" target="NLnRrTh_6EvHz22wUHoQ-8">
+        <mxCell id="NLnRrTh_6EvHz22wUHoQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.59;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#ff9933, #ededed);dashed=1;" edge="1" parent="1" source="NLnRrTh_6EvHz22wUHoQ-6" target="NLnRrTh_6EvHz22wUHoQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
