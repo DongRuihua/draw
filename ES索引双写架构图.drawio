@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="第 1 页" id="GPQIrXl_w82NonHCi27m">
+    <mxGraphModel dx="693" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dEVK-ettfraJFasxCWMn-3" edge="1" parent="1" source="dEVK-ettfraJFasxCWMn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dEVK-ettfraJFasxCWMn-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;shadow=0;glass=0;fillStyle=solid;gradientColor=none;" value="MySQL: virtual_phone" vertex="1">
+          <mxGeometry height="60" width="160" x="400" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Kafka 数据同步&lt;br&gt;Topic:&amp;nbsp;basic_virtual-virtual_phone" vertex="1">
+          <mxGeometry height="70" width="240" x="360" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ES 索引: &lt;br&gt;virtual_phone_2025" vertex="1">
+          <mxGeometry height="120" width="160" x="240" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ES 索引: &lt;br&gt;virtual_phone_v2_202512" vertex="1">
+          <mxGeometry height="120" width="160" x="560" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-7" edge="1" parent="1" source="dEVK-ettfraJFasxCWMn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="dEVK-ettfraJFasxCWMn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-12" connectable="0" parent="dEVK-ettfraJFasxCWMn-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="0.0477" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-8" edge="1" parent="1" source="dEVK-ettfraJFasxCWMn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="dEVK-ettfraJFasxCWMn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-10" connectable="0" parent="dEVK-ettfraJFasxCWMn-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(236, 236, 236);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20edge%3D%221%22%20parent%3D%221%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0.25%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22420%22%20y%3D%22270%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22280%22%20y%3D%22354%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20connectable%3D%220%22%20parent%3D%222%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%22%E6%B6%88%E8%B4%B9%20kafka%20%EF%BC%8C%E5%90%8C%E6%AD%A5%E6%B6%88%E6%81%AF%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.003%22%20y%3D%222%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0952" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dEVK-ettfraJFasxCWMn-11" connectable="0" parent="dEVK-ettfraJFasxCWMn-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="消费 kafka ，同步消息" vertex="1">
+          <mxGeometry relative="1" x="0.0744" y="-4" as="geometry">
+            <mxPoint x="-8" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
