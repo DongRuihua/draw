@@ -14,10 +14,10 @@
           <mxGeometry height="70" width="240" x="360" y="200" as="geometry" />
         </mxCell>
         <mxCell id="dEVK-ettfraJFasxCWMn-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ES 索引: &lt;br&gt;virtual_phone_2025" vertex="1">
-          <mxGeometry height="120" width="160" x="240" y="354" as="geometry" />
+          <mxGeometry height="86" width="160" x="240" y="354" as="geometry" />
         </mxCell>
         <mxCell id="dEVK-ettfraJFasxCWMn-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ES 索引: &lt;br&gt;virtual_phone_v2_202512" vertex="1">
-          <mxGeometry height="120" width="160" x="560" y="354" as="geometry" />
+          <mxGeometry height="86" width="160" x="560" y="354" as="geometry" />
         </mxCell>
         <mxCell id="dEVK-ettfraJFasxCWMn-7" edge="1" parent="1" source="dEVK-ettfraJFasxCWMn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="dEVK-ettfraJFasxCWMn-5">
           <mxGeometry relative="1" as="geometry" />
