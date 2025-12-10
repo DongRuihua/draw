@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="第 1 页" id="GPQIrXl_w82NonHCi27m">
-    <mxGraphModel dx="693" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k_05zxVbZyp_6H-zaw2p-1" connectable="0" parent="dEVK-ettfraJFasxCWMn-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="消费kafka消息，&lt;div&gt;同步数据&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0415" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dEVK-ettfraJFasxCWMn-8" edge="1" parent="1" source="dEVK-ettfraJFasxCWMn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="dEVK-ettfraJFasxCWMn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -35,7 +40,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEVK-ettfraJFasxCWMn-11" connectable="0" parent="dEVK-ettfraJFasxCWMn-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="消费 kafka ，同步消息" vertex="1">
+        <mxCell id="dEVK-ettfraJFasxCWMn-11" connectable="0" parent="dEVK-ettfraJFasxCWMn-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="消费kafka消息，&lt;div&gt;同步数据&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0744" y="-4" as="geometry">
             <mxPoint x="-8" y="-6" as="offset" />
           </mxGeometry>
