@@ -4,26 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="daE12ofE1aF3kcnxiTOb-2" edge="1" parent="1" source="UrWVaoyPaiq6r7fhsOPH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UrWVaoyPaiq6r7fhsOPH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="280" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="daE12ofE1aF3kcnxiTOb-6" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="daE12ofE1aF3kcnxiTOb-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="indexType == virtualPhone ?" vertex="1">
-          <mxGeometry height="60" width="175" x="252.5" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="daE12ofE1aF3kcnxiTOb-8" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="daE12ofE1aF3kcnxiTOb-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="获取接口类型的堆栈开关" vertex="1">
-          <mxGeometry height="60" width="140" x="270" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="daE12ofE1aF3kcnxiTOb-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="堆栈开关" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="360" as="geometry" />
+        <mxCell id="daE12ofE1aF3kcnxiTOb-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="根据类型，获取接口堆栈总开关" vertex="1">
+          <mxGeometry height="80" width="180" x="250" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
