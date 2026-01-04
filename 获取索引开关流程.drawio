@@ -38,9 +38,19 @@
         <mxCell id="daE12ofE1aF3kcnxiTOb-18" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-24" connectable="0" parent="daE12ofE1aF3kcnxiTOb-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.5628" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-21" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="419.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-25" connectable="0" parent="daE12ofE1aF3kcnxiTOb-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.0663" y="-1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="包含指定方法？" vertex="1">
