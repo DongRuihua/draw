@@ -13,6 +13,9 @@
         <mxCell id="daE12ofE1aF3kcnxiTOb-14" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-20" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="根据索引类型，&lt;br&gt;获取对应的接口总开关" vertex="1">
           <mxGeometry height="80" width="180" x="250" y="160" as="geometry" />
         </mxCell>
@@ -22,8 +25,22 @@
         <mxCell id="daE12ofE1aF3kcnxiTOb-13" parent="1" style="whiteSpace=wrap;html=1;" value="遍历指定的类名+方法名，判断当前方法堆栈是否包含指定方法" vertex="1">
           <mxGeometry height="60" width="240" x="220" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-18" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-21" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="419.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="包含指定方法？" vertex="1">
           <mxGeometry height="80" width="130" x="275" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-17" parent="1" style="whiteSpace=wrap;html=1;" value="通过数据字典，查询指定方法开关，访问年度或者月度" vertex="1">
+          <mxGeometry height="60" width="200" x="240" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-19" parent="1" style="whiteSpace=wrap;html=1;" value="查询总开关，访问年度或月度索引" vertex="1">
+          <mxGeometry height="60" width="190" x="520" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
