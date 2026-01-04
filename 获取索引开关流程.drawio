@@ -13,8 +13,18 @@
         <mxCell id="daE12ofE1aF3kcnxiTOb-14" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-23" connectable="0" parent="daE12ofE1aF3kcnxiTOb-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="开启" vertex="1">
+          <mxGeometry relative="1" x="-0.1431" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-20" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-19" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="daE12ofE1aF3kcnxiTOb-22" connectable="0" parent="daE12ofE1aF3kcnxiTOb-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="关闭" vertex="1">
+          <mxGeometry relative="1" x="-0.6444" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="根据索引类型，&lt;br&gt;获取对应的接口总开关" vertex="1">
           <mxGeometry height="80" width="180" x="250" y="160" as="geometry" />
@@ -22,7 +32,7 @@
         <mxCell id="daE12ofE1aF3kcnxiTOb-16" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="daE12ofE1aF3kcnxiTOb-13" parent="1" style="whiteSpace=wrap;html=1;" value="遍历指定的类名+方法名，判断当前方法堆栈是否包含指定方法" vertex="1">
+        <mxCell id="daE12ofE1aF3kcnxiTOb-13" parent="1" style="whiteSpace=wrap;html=1;" value="遍历指定的类名+方法名，&lt;div&gt;判断当前方法堆栈是否包含指定方法&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="240" x="220" y="280" as="geometry" />
         </mxCell>
         <mxCell id="daE12ofE1aF3kcnxiTOb-18" edge="1" parent="1" source="daE12ofE1aF3kcnxiTOb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="daE12ofE1aF3kcnxiTOb-17" value="">
