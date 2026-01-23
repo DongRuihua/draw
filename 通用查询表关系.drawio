@@ -233,7 +233,7 @@
         <mxCell id="xg3UgWulE7AEm5-sKLyU-9" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
           <mxGeometry height="50" width="70" x="585" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="xg3UgWulE7AEm5-sKLyU-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通用查询的查询字段都存在这个表" vertex="1">
+        <mxCell id="xg3UgWulE7AEm5-sKLyU-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="通用查询的查询字段" vertex="1">
           <mxGeometry height="30" width="190" x="680" y="130" as="geometry" />
         </mxCell>
         <mxCell id="xg3UgWulE7AEm5-sKLyU-12" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;span style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: Consolas; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 128);&quot;&gt;generic_search_field&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
@@ -291,7 +291,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xg3UgWulE7AEm5-sKLyU-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="非通用查询的自定义查询、自定义列存在这个表" vertex="1">
+        <mxCell id="xg3UgWulE7AEm5-sKLyU-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="非通用查询的自定义查询、自定义列" vertex="1">
           <mxGeometry height="30" width="180" x="60" y="120" as="geometry" />
         </mxCell>
         <mxCell id="xg3UgWulE7AEm5-sKLyU-26" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;" value="" vertex="1">
@@ -414,7 +414,7 @@
           <mxGeometry height="50" width="70" x="80" y="570" as="geometry" />
         </mxCell>
         <mxCell id="xg3UgWulE7AEm5-sKLyU-55" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;span style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: Consolas; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 128);&quot;&gt;define_search_field&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="150" width="180" x="360" y="-110" as="geometry" />
+          <mxGeometry height="150" width="180" x="360" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="xg3UgWulE7AEm5-sKLyU-56" parent="xg3UgWulE7AEm5-sKLyU-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
@@ -467,6 +467,12 @@
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xg3UgWulE7AEm5-sKLyU-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="用户自定义查询结果" vertex="1">
+          <mxGeometry height="30" width="180" x="360" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="xg3UgWulE7AEm5-sKLyU-69" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="50" width="70" x="410" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
