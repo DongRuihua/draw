@@ -294,6 +294,9 @@
         <mxCell id="xg3UgWulE7AEm5-sKLyU-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="非通用查询的自定义查询、自定义列存在这个表" vertex="1">
           <mxGeometry height="30" width="190" x="70" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="xg3UgWulE7AEm5-sKLyU-26" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="50" width="70" x="270" y="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
