@@ -4,23 +4,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="llCS9Kq19yrhQG0sgltv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户点击转换" vertex="1">
-          <mxGeometry height="50" width="110" x="40" y="120" as="geometry" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-22" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-16" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="llCS9Kq19yrhQG0sgltv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="基础服务" vertex="1">
-          <mxGeometry height="50" width="110" x="200" y="120" as="geometry" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用户点击转换" vertex="1">
+          <mxGeometry height="50" width="120" x="80" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="llCS9Kq19yrhQG0sgltv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成任务ID" vertex="1">
-          <mxGeometry height="50" width="110" x="360" y="120" as="geometry" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-23" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-19" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="llCS9Kq19yrhQG0sgltv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="记录任务到 DB" vertex="1">
-          <mxGeometry height="50" width="110" x="585" y="210" as="geometry" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="basic-virtual" vertex="1">
+          <mxGeometry height="50" width="120" x="240" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="llCS9Kq19yrhQG0sgltv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="上传文件到文件中心" vertex="1">
-          <mxGeometry height="50" width="110" x="520" y="120" as="geometry" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="生成任务 ID" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="llCS9Kq19yrhQG0sgltv-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用 AI 接口发送任务详情" vertex="1">
-          <mxGeometry height="50" width="110" x="680" y="120" as="geometry" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="录音上传文件中心" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="调用接口发送任务" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="存储任务到 DB" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="返回任务 ID 给前端" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-26" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-16" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lyN5uz1dtPLtL16yubfO-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lyN5uz1dtPLtL16yubfO-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="215" as="sourcePoint" />
+            <mxPoint x="420" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-28" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-16" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-29" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-16" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lyN5uz1dtPLtL16yubfO-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="490" as="sourcePoint" />
+            <mxPoint x="380" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
