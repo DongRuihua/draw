@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="第 1 页" id="BZ_2uCYva8xD8T4JxN9N">
-    <mxGraphModel dx="935" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lyN5uz1dtPLtL16yubfO-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="270" width="830" x="10" y="450" as="geometry" />
+        </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="390" width="520" x="10" y="10" as="geometry" />
         </mxCell>
@@ -70,13 +73,13 @@
         <mxCell id="lyN5uz1dtPLtL16yubfO-45" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-37" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lyN5uz1dtPLtL16yubfO-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="解析音频文件" vertex="1">
+        <mxCell id="lyN5uz1dtPLtL16yubfO-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;strokeWidth=2;" value="解析音频文件" vertex="1">
           <mxGeometry height="50" width="120" x="200" y="560" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-49" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lyN5uz1dtPLtL16yubfO-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="发送结果到消息队列" vertex="1">
+        <mxCell id="lyN5uz1dtPLtL16yubfO-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;strokeWidth=2;" value="发送结果到消息队列" vertex="1">
           <mxGeometry height="50" width="120" x="360" y="560" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-51" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-40" value="">
@@ -85,13 +88,13 @@
         <mxCell id="lyN5uz1dtPLtL16yubfO-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="basic-virtual" vertex="1">
           <mxGeometry height="50" width="120" x="525" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="lyN5uz1dtPLtL16yubfO-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="消费解析结果" vertex="1">
+        <mxCell id="lyN5uz1dtPLtL16yubfO-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="消费解析结果" vertex="1">
           <mxGeometry height="50" width="120" x="700" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="lyN5uz1dtPLtL16yubfO-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="更新任务状态" vertex="1">
+        <mxCell id="lyN5uz1dtPLtL16yubfO-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="更新任务状态" vertex="1">
           <mxGeometry height="50" width="120" x="700" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="lyN5uz1dtPLtL16yubfO-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="推送结果给前端" vertex="1">
+        <mxCell id="lyN5uz1dtPLtL16yubfO-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCE9F;strokeWidth=2;" value="推送结果给前端" vertex="1">
           <mxGeometry height="50" width="120" x="700" y="650" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-52" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-38" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lyN5uz1dtPLtL16yubfO-39" value="">
