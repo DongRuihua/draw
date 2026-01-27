@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="llCS9Kq19yrhQG0sgltv-6" edge="1" parent="1" source="llCS9Kq19yrhQG0sgltv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="llCS9Kq19yrhQG0sgltv-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="llCS9Kq19yrhQG0sgltv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户点击转换" vertex="1">
           <mxGeometry height="50" width="110" x="40" y="120" as="geometry" />
         </mxCell>
@@ -14,16 +11,16 @@
           <mxGeometry height="50" width="110" x="200" y="120" as="geometry" />
         </mxCell>
         <mxCell id="llCS9Kq19yrhQG0sgltv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成任务ID" vertex="1">
-          <mxGeometry height="50" width="110" x="360" y="70" as="geometry" />
+          <mxGeometry height="50" width="110" x="360" y="120" as="geometry" />
         </mxCell>
         <mxCell id="llCS9Kq19yrhQG0sgltv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="记录任务到 DB" vertex="1">
-          <mxGeometry height="50" width="110" x="360" y="160" as="geometry" />
+          <mxGeometry height="50" width="110" x="585" y="210" as="geometry" />
         </mxCell>
         <mxCell id="llCS9Kq19yrhQG0sgltv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="上传文件到文件中心" vertex="1">
-          <mxGeometry height="50" width="110" x="520" y="70" as="geometry" />
+          <mxGeometry height="50" width="110" x="520" y="120" as="geometry" />
         </mxCell>
         <mxCell id="llCS9Kq19yrhQG0sgltv-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用 AI 接口发送任务详情" vertex="1">
-          <mxGeometry height="50" width="110" x="680" y="70" as="geometry" />
+          <mxGeometry height="50" width="110" x="680" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
