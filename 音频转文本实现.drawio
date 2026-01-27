@@ -61,26 +61,51 @@
         <mxCell id="lyN5uz1dtPLtL16yubfO-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;任务提交阶段&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="140" x="50" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-44" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI 中心系统" vertex="1">
-          <mxGeometry height="50" width="120" x="40" y="590" as="geometry" />
+          <mxGeometry height="50" width="120" x="40" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-45" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-37" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="解析音频文件" vertex="1">
-          <mxGeometry height="50" width="120" x="220" y="510" as="geometry" />
+          <mxGeometry height="50" width="120" x="200" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-49" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-38" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="发送结果到消息队列" vertex="1">
-          <mxGeometry height="50" width="120" x="220" y="600" as="geometry" />
+          <mxGeometry height="50" width="120" x="360" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-51" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyN5uz1dtPLtL16yubfO-40" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="basic-virtual" vertex="1">
-          <mxGeometry height="50" width="120" x="400" y="590" as="geometry" />
+          <mxGeometry height="50" width="120" x="525" y="560" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="消费解析结果" vertex="1">
-          <mxGeometry height="50" width="120" x="590" y="510" as="geometry" />
+          <mxGeometry height="50" width="120" x="700" y="475" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="更新任务状态" vertex="1">
-          <mxGeometry height="50" width="120" x="590" y="590" as="geometry" />
+          <mxGeometry height="50" width="120" x="700" y="560" as="geometry" />
         </mxCell>
         <mxCell id="lyN5uz1dtPLtL16yubfO-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="推送结果给前端" vertex="1">
-          <mxGeometry height="50" width="120" x="590" y="680" as="geometry" />
+          <mxGeometry height="50" width="120" x="700" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-52" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-38" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lyN5uz1dtPLtL16yubfO-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="650" y="580" as="sourcePoint" />
+            <mxPoint x="700" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-53" edge="1" parent="1" source="lyN5uz1dtPLtL16yubfO-38" style="endArrow=classic;html=1;rounded=0;exitX=1.023;exitY=0.626;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.012;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" target="lyN5uz1dtPLtL16yubfO-41" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="720" as="sourcePoint" />
+            <mxPoint x="660" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
