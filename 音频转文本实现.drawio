@@ -70,8 +70,17 @@
         <mxCell id="lyN5uz1dtPLtL16yubfO-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="发送结果到消息队列" vertex="1">
           <mxGeometry height="50" width="120" x="370" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="lyN5uz1dtPLtL16yubfO-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="基础服务消费解析" vertex="1">
+        <mxCell id="lyN5uz1dtPLtL16yubfO-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="basic-virtual" vertex="1">
           <mxGeometry height="50" width="120" x="530" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="消费解析结果" vertex="1">
+          <mxGeometry height="50" width="120" x="720" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="更新任务状态" vertex="1">
+          <mxGeometry height="50" width="120" x="720" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lyN5uz1dtPLtL16yubfO-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="推送结果给前端" vertex="1">
+          <mxGeometry height="50" width="120" x="720" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
