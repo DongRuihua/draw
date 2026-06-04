@@ -74,6 +74,9 @@
         <mxCell id="Oi01GBul9jB9IaY2j0er-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="异步调用 push-center，通知前端更新任务列表" vertex="1">
           <mxGeometry height="60" width="120" x="440" y="620" as="geometry" />
         </mxCell>
+        <mxCell id="Oi01GBul9jB9IaY2j0er-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回关闭成功" vertex="1">
+          <mxGeometry height="50" width="120" x="220" y="720" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
