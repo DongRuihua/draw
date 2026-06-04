@@ -91,7 +91,7 @@
           <mxGeometry height="60" width="120" x="520" y="670" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询派发人、处理人姓名、部门等信息" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="790" as="geometry" />
+          <mxGeometry height="60" width="150" x="305" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
