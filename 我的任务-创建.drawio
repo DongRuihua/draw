@@ -81,11 +81,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-39" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="唯一约束是否已存在？" vertex="1">
           <mxGeometry height="80" width="150" x="305" y="660" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="返回任务已存在，禁止重复创建" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询派发人、处理人姓名、部门等信息" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
