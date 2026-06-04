@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" value="更新处理时间、任务状态、更新操作人" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="612" as="geometry" />
+          <mxGeometry height="60" width="140" x="230" y="612" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" value="异步调用 push-center，通知前端更新任务列表" vertex="1">
           <mxGeometry height="60" width="160" x="440" y="612" as="geometry" />
