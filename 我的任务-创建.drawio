@@ -108,7 +108,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-41" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询派发人、处理人姓名、部门等信息" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询派发人、处理人的工号、姓名、部门等信息" vertex="1">
           <mxGeometry height="60" width="150" x="305" y="797" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-43" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-42" value="">
