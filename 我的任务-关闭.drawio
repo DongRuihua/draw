@@ -91,7 +91,7 @@
         <mxCell id="Oi01GBul9jB9IaY2j0er-59" edge="1" parent="1" source="Oi01GBul9jB9IaY2j0er-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Oi01GBul9jB9IaY2j0er-58" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oi01GBul9jB9IaY2j0er-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="更新处理时间和任务状态" vertex="1">
+        <mxCell id="Oi01GBul9jB9IaY2j0er-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" value="更新处理时间和任务状态" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="612" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" value="异步调用 push-center，通知前端更新任务列表" vertex="1">
