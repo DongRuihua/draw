@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1070" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,10 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="任务是否存在？" vertex="1">
-          <mxGeometry height="80" width="120" x="240" y="373" as="geometry" />
+          <mxGeometry height="80" width="120" x="240" y="369" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="返回任务不存在" vertex="1">
-          <mxGeometry height="60" width="120" x="440" y="383" as="geometry" />
+          <mxGeometry height="60" width="120" x="440" y="379" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-53" edge="1" parent="1" source="Oi01GBul9jB9IaY2j0er-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Oi01GBul9jB9IaY2j0er-52" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -80,10 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="任务是否已处理？" vertex="1">
-          <mxGeometry height="80" width="130" x="235" y="500" as="geometry" />
+          <mxGeometry height="80" width="130" x="235" y="492" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="返回任务已关闭" vertex="1">
-          <mxGeometry height="60" width="120" x="450" y="510" as="geometry" />
+          <mxGeometry height="60" width="120" x="440" y="502" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-57" edge="1" parent="1" source="Oi01GBul9jB9IaY2j0er-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Oi01GBul9jB9IaY2j0er-56" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -92,13 +92,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="关闭任务，更新处理时间和状态" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="620" as="geometry" />
+          <mxGeometry height="60" width="120" x="240" y="612" as="geometry" />
         </mxCell>
-        <mxCell id="Oi01GBul9jB9IaY2j0er-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="异步调用 push-center，通知前端更新任务列表" vertex="1">
-          <mxGeometry height="60" width="120" x="440" y="620" as="geometry" />
+        <mxCell id="Oi01GBul9jB9IaY2j0er-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" value="异步调用 push-center，通知前端更新任务列表" vertex="1">
+          <mxGeometry height="60" width="160" x="440" y="612" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回关闭成功" vertex="1">
-          <mxGeometry height="50" width="120" x="240" y="720" as="geometry" />
+          <mxGeometry height="50" width="120" x="240" y="712" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
