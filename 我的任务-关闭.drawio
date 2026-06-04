@@ -98,7 +98,7 @@
           <mxGeometry height="60" width="160" x="440" y="612" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回关闭成功" vertex="1">
-          <mxGeometry height="50" width="120" x="240" y="712" as="geometry" />
+          <mxGeometry height="50" width="120" x="240" y="705" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
