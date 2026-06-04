@@ -64,7 +64,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否启用？" vertex="1">
           <mxGeometry height="80" width="130" x="315" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回场景已禁用" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="返回场景已禁用" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="470" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-34" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-33" value="">
@@ -87,7 +87,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="唯一约束是否已存在？" vertex="1">
           <mxGeometry height="80" width="150" x="305" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="返回任务已存在，禁止重复创建" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回任务已存在，禁止重复创建" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="670" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-41" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-40" value="">
