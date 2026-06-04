@@ -57,7 +57,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oi01GBul9jB9IaY2j0er-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="任务是否存在？" vertex="1">
+        <mxCell id="Oi01GBul9jB9IaY2j0er-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" value="任务是否存在？" vertex="1">
           <mxGeometry height="80" width="120" x="240" y="369" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="返回任务不存在" vertex="1">
@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oi01GBul9jB9IaY2j0er-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="任务是否已处理？" vertex="1">
+        <mxCell id="Oi01GBul9jB9IaY2j0er-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" value="任务是否已处理？" vertex="1">
           <mxGeometry height="80" width="130" x="235" y="492" as="geometry" />
         </mxCell>
         <mxCell id="Oi01GBul9jB9IaY2j0er-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="返回任务已关闭" vertex="1">
