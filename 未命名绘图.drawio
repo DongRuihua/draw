@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="智能管控部" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" value="智能管控部" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="160" as="geometry" />
         </mxCell>
         <mxCell id="SqYFlQsVHlkDhXCCl_bL-16" edge="1" parent="1" source="SqYFlQsVHlkDhXCCl_bL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="SqYFlQsVHlkDhXCCl_bL-8">
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FMS 系统" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" value="FMS 系统" vertex="1">
           <mxGeometry height="40" width="120" x="280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="SqYFlQsVHlkDhXCCl_bL-17" edge="1" parent="1" source="SqYFlQsVHlkDhXCCl_bL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="SqYFlQsVHlkDhXCCl_bL-8">
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CRM 系统" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" value="CRM 系统" vertex="1">
           <mxGeometry height="40" width="120" x="440" y="160" as="geometry" />
         </mxCell>
         <mxCell id="SqYFlQsVHlkDhXCCl_bL-18" edge="1" parent="1" source="SqYFlQsVHlkDhXCCl_bL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="SqYFlQsVHlkDhXCCl_bL-8">
@@ -48,16 +48,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TMS 系统" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" value="TMS 系统" vertex="1">
           <mxGeometry height="40" width="120" x="600" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="system-center" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=hatch;gradientColor=none;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="system-center" vertex="1">
           <mxGeometry height="40" width="160" x="340" y="300" as="geometry" />
         </mxCell>
         <mxCell id="SqYFlQsVHlkDhXCCl_bL-10" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" value="" vertex="1">
           <mxGeometry height="48" width="57.15" x="200.00000000000003" y="454" as="geometry" />
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="push-center 服务" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" value="push-center 服务" vertex="1">
           <mxGeometry height="40" width="120" x="600" y="458" as="geometry" />
         </mxCell>
         <mxCell id="SqYFlQsVHlkDhXCCl_bL-35" edge="1" parent="1" source="SqYFlQsVHlkDhXCCl_bL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=1;">
@@ -74,7 +74,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SqYFlQsVHlkDhXCCl_bL-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HR 系统" vertex="1">
+        <mxCell id="SqYFlQsVHlkDhXCCl_bL-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" value="HR 系统" vertex="1">
           <mxGeometry height="40" width="120" x="440" y="458" as="geometry" />
         </mxCell>
         <mxCell id="SqYFlQsVHlkDhXCCl_bL-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;创建或关闭任务&lt;/b&gt;" vertex="1">
