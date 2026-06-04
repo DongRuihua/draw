@@ -32,7 +32,7 @@
         <mxCell id="tMl5bLLBzMJJ2M9PYjyH-62" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="必填参数校验" vertex="1">
           <mxGeometry height="80" width="110" x="245" y="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="tMl5bLLBzMJJ2M9PYjyH-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" value="scene_code+business_data_code 查询任务详情" vertex="1">
+        <mxCell id="tMl5bLLBzMJJ2M9PYjyH-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="查询任务详情scene_code+business_data_code&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="190" x="205" y="290" as="geometry" />
         </mxCell>
         <mxCell id="tMl5bLLBzMJJ2M9PYjyH-90" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" value="异步调用 push-center，通知前端任务列表更新" vertex="1">
