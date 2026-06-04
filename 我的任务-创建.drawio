@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LvKVR04yL8tsP9eNDc1b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="创建任务接口" vertex="1">
-          <mxGeometry height="50" width="120" x="320" y="70" as="geometry" />
+          <mxGeometry height="50" width="120" x="320" y="80" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回参数校验失败" vertex="1">
           <mxGeometry height="60" width="120" x="560" y="172.5" as="geometry" />
