@@ -1,28 +1,52 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="6v75pvHDXcuwgpCXrl9I">
-    <mxGraphModel dx="1621" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-4" edge="1" parent="1" source="LvKVR04yL8tsP9eNDc1b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-3" value="">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-15" edge="1" parent="1" source="LvKVR04yL8tsP9eNDc1b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LvKVR04yL8tsP9eNDc1b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="创建任务接口" vertex="1">
           <mxGeometry height="50" width="120" x="320" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-6" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-5" value="">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回参数校验失败" vertex="1">
+          <mxGeometry height="45" width="120" x="540" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-16" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-7" connectable="0" parent="gd8hDZDWgWR_uWYoUqSv-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="验参不通过" vertex="1">
-          <mxGeometry relative="1" x="-0.2308" y="1" as="geometry">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-17" connectable="0" parent="gd8hDZDWgWR_uWYoUqSv-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="验参失败" vertex="1">
+          <mxGeometry relative="1" x="-0.3847" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="必填参数检查" vertex="1">
-          <mxGeometry height="70" width="140" x="310" y="170" as="geometry" />
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-20" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-19" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回创建失败" vertex="1">
-          <mxGeometry height="45" width="120" x="560" y="182.5" as="geometry" />
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="必填参数校验" vertex="1">
+          <mxGeometry height="80" width="110" x="325" y="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-22" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询场景是否存在且启用" vertex="1">
+          <mxGeometry height="50" width="120" x="320" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-24" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-26" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否存在？" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="返回场景编码未注册" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否启用？" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
