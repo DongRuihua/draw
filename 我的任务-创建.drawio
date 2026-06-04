@@ -118,7 +118,7 @@
           <mxGeometry height="60" width="150" x="305" y="889" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="返回任务ID" vertex="1">
-          <mxGeometry height="50" width="120" x="320" y="990" as="geometry" />
+          <mxGeometry height="50" width="120" x="320" y="986" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
