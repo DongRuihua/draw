@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="618" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,11 +32,17 @@
         <mxCell id="tMl5bLLBzMJJ2M9PYjyH-62" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="必填参数校验" vertex="1">
           <mxGeometry height="80" width="110" x="245" y="162.5" as="geometry" />
         </mxCell>
+        <mxCell id="Oi01GBul9jB9IaY2j0er-47" edge="1" parent="1" source="tMl5bLLBzMJJ2M9PYjyH-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Oi01GBul9jB9IaY2j0er-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tMl5bLLBzMJJ2M9PYjyH-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="查询任务详情scene_code+business_data_code&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="190" x="205" y="290" as="geometry" />
         </mxCell>
         <mxCell id="tMl5bLLBzMJJ2M9PYjyH-90" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" value="异步调用 push-center，通知前端任务列表更新" vertex="1">
           <mxGeometry height="60" width="160" x="440" y="889" as="geometry" />
+        </mxCell>
+        <mxCell id="Oi01GBul9jB9IaY2j0er-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="任务是否存在？" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="373" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
