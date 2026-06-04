@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="6v75pvHDXcuwgpCXrl9I">
-    <mxGraphModel dx="1343" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,16 +72,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否启用？" vertex="1">
-          <mxGeometry height="80" width="130" x="315" y="470" as="geometry" />
+          <mxGeometry height="80" width="130" x="315" y="477" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="返回场景已禁用" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="480" as="geometry" />
+          <mxGeometry height="60" width="120" x="560" y="487" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-34" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-33" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-31" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="校验联合唯一约束&lt;br&gt;（scene_code+business_data_code）" vertex="1">
-          <mxGeometry height="60" width="240" x="260" y="580" as="geometry" />
+          <mxGeometry height="60" width="240" x="260" y="587" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-36" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-35" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -95,25 +95,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="唯一约束是否已存在？" vertex="1">
-          <mxGeometry height="80" width="150" x="305" y="670" as="geometry" />
+          <mxGeometry height="80" width="150" x="305" y="677" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回任务已存在，禁止重复创建" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="560" y="687" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-41" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询派发人、处理人姓名、部门等信息" vertex="1">
-          <mxGeometry height="60" width="150" x="305" y="790" as="geometry" />
+          <mxGeometry height="60" width="150" x="305" y="797" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-43" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-42" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="构造 MyTask 对象，保存任务信息" vertex="1">
-          <mxGeometry height="60" width="150" x="305" y="880" as="geometry" />
+          <mxGeometry height="60" width="150" x="305" y="887" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-42" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回 taskId" vertex="1">
-          <mxGeometry height="45" width="120" x="320" y="970" as="geometry" />
+          <mxGeometry height="45" width="120" x="320" y="977" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
