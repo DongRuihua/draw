@@ -58,7 +58,7 @@
           <mxGeometry height="80" width="120" x="320" y="360" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回场景编码未注册" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="521" y="370" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-29" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry height="80" width="130" x="315" y="477" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="返回场景已禁用" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="487" as="geometry" />
+          <mxGeometry height="60" width="120" x="521" y="487" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-34" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-33" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry height="80" width="150" x="305" y="677" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回任务已存在，禁止重复创建" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="687" as="geometry" />
+          <mxGeometry height="60" width="120" x="521" y="687" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-41" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-40" value="">
           <mxGeometry relative="1" as="geometry" />
