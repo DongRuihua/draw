@@ -111,14 +111,14 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询派发人、处理人的工号、姓名、部门等信息" vertex="1">
           <mxGeometry height="60" width="150" x="305" y="797" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-43" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-42" value="">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-50" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-49" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="构造 MyTask 对象，数据库保存任务信息" vertex="1">
-          <mxGeometry height="60" width="150" x="305" y="887" as="geometry" />
+          <mxGeometry height="60" width="150" x="305" y="889" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-42" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回 taskId" vertex="1">
-          <mxGeometry height="45" width="120" x="320" y="977" as="geometry" />
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="返回任务ID" vertex="1">
+          <mxGeometry height="50" width="120" x="320" y="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
