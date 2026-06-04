@@ -7,10 +7,10 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-15" edge="1" parent="1" source="LvKVR04yL8tsP9eNDc1b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvKVR04yL8tsP9eNDc1b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#ffe6cc;strokeColor=#d79b00;" value="创建任务接口" vertex="1">
+        <mxCell id="LvKVR04yL8tsP9eNDc1b-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" value="创建任务接口" vertex="1">
           <mxGeometry height="50" width="120" x="320" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回参数校验失败" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回参数校验失败" vertex="1">
           <mxGeometry height="60" width="120" x="521" y="172.5" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-16" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-5" value="">
@@ -57,7 +57,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否存在？" vertex="1">
           <mxGeometry height="80" width="120" x="320" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回场景编码未注册" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回场景编码未注册" vertex="1">
           <mxGeometry height="60" width="120" x="521" y="370" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-29" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-28" value="">
@@ -74,7 +74,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否启用？" vertex="1">
           <mxGeometry height="80" width="130" x="315" y="477" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="返回场景已禁用" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回场景已禁用" vertex="1">
           <mxGeometry height="60" width="120" x="521" y="487" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-34" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-33" value="">
@@ -102,7 +102,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="唯一约束是否已存在？" vertex="1">
           <mxGeometry height="80" width="150" x="305" y="677" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="返回任务已存在，禁止重复创建" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回任务已存在，禁止重复创建" vertex="1">
           <mxGeometry height="60" width="120" x="521" y="687" as="geometry" />
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-41" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-40" value="">
@@ -117,7 +117,7 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="构造 MyTask 对象，数据库保存任务信息" vertex="1">
           <mxGeometry height="60" width="150" x="305" y="889" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;" value="返回任务ID" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" value="返回任务ID" vertex="1">
           <mxGeometry height="50" width="120" x="320" y="986" as="geometry" />
         </mxCell>
       </root>
