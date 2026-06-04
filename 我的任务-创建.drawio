@@ -36,13 +36,18 @@
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-24" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gd8hDZDWgWR_uWYoUqSv-27" connectable="0" parent="gd8hDZDWgWR_uWYoUqSv-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不存在" vertex="1">
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-27" connectable="0" parent="gd8hDZDWgWR_uWYoUqSv-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
           <mxGeometry relative="1" x="-0.0131" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-26" edge="1" parent="1" source="gd8hDZDWgWR_uWYoUqSv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gd8hDZDWgWR_uWYoUqSv-25" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd8hDZDWgWR_uWYoUqSv-46" connectable="0" parent="gd8hDZDWgWR_uWYoUqSv-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.5171" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gd8hDZDWgWR_uWYoUqSv-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="场景是否存在？" vertex="1">
           <mxGeometry height="80" width="120" x="320" y="350" as="geometry" />
