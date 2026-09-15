@@ -47,7 +47,7 @@
           <mxGeometry height="70.24" width="70.24" x="920" y="314.5" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="用户" vertex="1">
-          <mxGeometry height="90" width="70.24" x="304.88" y="568" as="geometry" />
+          <mxGeometry height="90" width="70.24" x="300.88" y="566" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-36" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tvvRG6JHCFTTvluMiadH-11" value="">
           <mxGeometry relative="1" as="geometry" />
