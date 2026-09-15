@@ -26,13 +26,13 @@
           <mxGeometry height="90" width="320" x="180" y="199" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;短链路由后台&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px; color: rgb(51, 51, 51);&quot;&gt;short-url-service&lt;br&gt;来源校验、状态/次数检查、302跳转&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="320" x="180" y="360" as="geometry" />
+          <mxGeometry height="90" width="320" x="180" y="388" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-5" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/apps-and-system-logos/1/MySQL.svg" value="" vertex="1">
           <mxGeometry height="59" width="113" x="610" y="210" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-6" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" value="" vertex="1">
-          <mxGeometry height="67" width="79.76" x="626.62" y="371.5" as="geometry" />
+          <mxGeometry height="67" width="79.76" x="626.62" y="330" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-8" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" value="" vertex="1">
           <mxGeometry height="70.24" width="70.24" x="920" y="129.76" as="geometry" />
@@ -44,33 +44,39 @@
           <mxGeometry height="70.24" width="70.24" x="920" y="350" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="用户" vertex="1">
-          <mxGeometry height="90" width="70.24" x="304.88" y="540" as="geometry" />
+          <mxGeometry height="90" width="70.24" x="304.88" y="568" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/apps-and-system-logos/1/Kafka.svg" value="" vertex="1">
           <mxGeometry height="67" width="42" x="800" y="220" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="260" y="560" as="sourcePoint" />
-            <mxPoint x="260" y="470" as="targetPoint" />
+            <mxPoint x="260" y="588" as="sourcePoint" />
+            <mxPoint x="260" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="420" y="470" as="sourcePoint" />
-            <mxPoint x="420" y="560" as="targetPoint" />
+            <mxPoint x="420" y="498" as="sourcePoint" />
+            <mxPoint x="420" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="短链生成/失效/查询" vertex="1">
           <mxGeometry height="30" width="145" x="330" y="160" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="点击短链" vertex="1">
-          <mxGeometry height="30" width="60" x="190" y="500" as="geometry" />
+          <mxGeometry height="30" width="60" x="190" y="528" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="302 重定向" vertex="1">
-          <mxGeometry height="30" width="70.24" x="430" y="500" as="geometry" />
+          <mxGeometry height="30" width="70.24" x="430" y="528" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-27" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" target="tvvRG6JHCFTTvluMiadH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-32" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvvRG6JHCFTTvluMiadH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-34" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvvRG6JHCFTTvluMiadH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
