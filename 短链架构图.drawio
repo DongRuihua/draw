@@ -119,7 +119,7 @@
           <mxGeometry height="30" width="100" x="526.62" y="409" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="明细/模板落库" vertex="1">
-          <mxGeometry height="30" width="120" x="508" y="208.88" as="geometry" />
+          <mxGeometry height="30" width="120" x="516.62" y="218.5" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="短链模板配置同步" vertex="1">
           <mxGeometry height="30" width="113" x="230" y="330" as="geometry" />
@@ -143,7 +143,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvvRG6JHCFTTvluMiadH-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分片库获取冷数据，并回调 Redis" vertex="1">
+        <mxCell id="tvvRG6JHCFTTvluMiadH-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="从分片库获取冷数据，并回调 Redis" vertex="1">
           <mxGeometry height="30" width="204" x="686.24" y="430" as="geometry" />
         </mxCell>
       </root>
