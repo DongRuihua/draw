@@ -52,6 +52,22 @@
         <mxCell id="tvvRG6JHCFTTvluMiadH-36" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tvvRG6JHCFTTvluMiadH-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-40" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tvvRG6JHCFTTvluMiadH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="239.5" />
+              <mxPoint x="880" y="129.33" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-42" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tvvRG6JHCFTTvluMiadH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="239.5" />
+              <mxPoint x="880" y="349.67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/apps-and-system-logos/1/Kafka.svg" value="" vertex="1">
           <mxGeometry height="67" width="42" x="800" y="206" as="geometry" />
         </mxCell>
@@ -89,7 +105,10 @@
           <mxGeometry height="30" width="60" x="620" y="350" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="kafka" vertex="1">
-          <mxGeometry height="30" width="60" x="830" y="199" as="geometry" />
+          <mxGeometry height="39" width="70.24" x="820" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="binlog" vertex="1">
+          <mxGeometry height="30" width="70.24" x="723" y="204.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
