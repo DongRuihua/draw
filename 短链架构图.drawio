@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="短链系统整体架构" id="T0TMWTpQWcAJIhiW7esJ">
-    <mxGraphModel dx="1391" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,14 +101,20 @@
         <mxCell id="tvvRG6JHCFTTvluMiadH-34" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvvRG6JHCFTTvluMiadH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tvvRG6JHCFTTvluMiadH-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="620" y="350" as="geometry" />
-        </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="kafka" vertex="1">
           <mxGeometry height="39" width="70.24" x="820" y="190" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="binlog" vertex="1">
           <mxGeometry height="30" width="70.24" x="723" y="204.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="短链缓存、判重" vertex="1">
+          <mxGeometry height="30" width="100" x="460" y="314.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="短链映射" vertex="1">
+          <mxGeometry height="30" width="100" x="526.62" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="明细/模板/记录落库" vertex="1">
+          <mxGeometry height="30" width="120" x="516.62" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
