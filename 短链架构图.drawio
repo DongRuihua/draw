@@ -70,6 +70,12 @@
         <mxCell id="tvvRG6JHCFTTvluMiadH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="302 重定向" vertex="1">
           <mxGeometry height="30" width="70.24" x="410" y="660" as="geometry" />
         </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-25" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-1" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.605;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="414" as="sourcePoint" />
+            <mxPoint x="580" y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
