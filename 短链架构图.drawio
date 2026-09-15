@@ -116,7 +116,7 @@
           <mxGeometry height="30" width="100" x="460" y="314.5" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="短链映射" vertex="1">
-          <mxGeometry height="30" width="100" x="526.62" y="430" as="geometry" />
+          <mxGeometry height="30" width="100" x="526.62" y="409" as="geometry" />
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="明细/模板/记录落库" vertex="1">
           <mxGeometry height="30" width="120" x="508" y="208.88" as="geometry" />
@@ -135,6 +135,16 @@
         </mxCell>
         <mxCell id="tvvRG6JHCFTTvluMiadH-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分片库" vertex="1">
           <mxGeometry height="30" width="60" x="925" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-60" edge="1" parent="1" source="tvvRG6JHCFTTvluMiadH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.544;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvvRG6JHCFTTvluMiadH-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="965.28" y="455.48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvvRG6JHCFTTvluMiadH-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分片库获取冷数据，并回调 Redis" vertex="1">
+          <mxGeometry height="30" width="204" x="686.24" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
