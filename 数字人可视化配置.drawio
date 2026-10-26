@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="5yCPbjyPUjga-juNzjJS">
+    <mxGraphModel dx="1391" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5WZAm0RoQlemq08XParY-50" edge="1" parent="1" source="5WZAm0RoQlemq08XParY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="5WZAm0RoQlemq08XParY-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-40" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="用户" vertex="1">
+          <mxGeometry height="90" width="70.24" x="394.88" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-61" edge="1" parent="1" source="5WZAm0RoQlemq08XParY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="5WZAm0RoQlemq08XParY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数字人可视化配置后台&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px; color: rgb(51, 51, 51);&quot;&gt;(system-center)&amp;nbsp;&lt;br&gt;高管、普通员工数字人配置和获取&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="320" x="270" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-43" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" value="" vertex="1">
+          <mxGeometry height="79.55" width="79.55" x="286" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-44" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" value="" vertex="1">
+          <mxGeometry height="67" width="79.76" x="456.24" y="462.54999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;第三方业务系统&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px; color: rgb(51, 51, 51);&quot;&gt;&lt;br&gt;普通员工数字人素材&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="700" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-63" edge="1" parent="1" source="5WZAm0RoQlemq08XParY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="641" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-66" connectable="0" parent="5WZAm0RoQlemq08XParY-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="COS 素材" vertex="1">
+          <mxGeometry relative="1" x="0.0754" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-48" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/databases/1/Cloud_Database.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="79.55" width="145" x="700" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-59" edge="1" parent="1" source="5WZAm0RoQlemq08XParY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.177;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;startArrow=classic;startFill=1;" target="5WZAm0RoQlemq08XParY-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-64" connectable="0" parent="5WZAm0RoQlemq08XParY-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="读取配置信息" vertex="1">
+          <mxGeometry relative="1" x="0.0773" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-60" edge="1" parent="1" source="5WZAm0RoQlemq08XParY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.709;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;startArrow=classic;startFill=1;" target="5WZAm0RoQlemq08XParY-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WZAm0RoQlemq08XParY-65" connectable="0" parent="5WZAm0RoQlemq08XParY-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="读取缓存素材" vertex="1">
+          <mxGeometry relative="1" x="0.1576" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
